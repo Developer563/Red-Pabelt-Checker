@@ -16,5 +16,10 @@ namespace Red_Pabelt_Checker
         {
             InitializeComponent();
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://www.patreon.com/bePatron?u=74476769");
+        }
     }
 }
