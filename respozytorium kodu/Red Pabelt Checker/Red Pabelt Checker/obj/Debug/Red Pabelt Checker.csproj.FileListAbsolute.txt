@@ -1,0 +1,11 @@
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\bin\Debug\Red Pabelt Checker.exe.config
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\bin\Debug\Red Pabelt Checker.exe
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\bin\Debug\Red Pabelt Checker.pdb
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.csproj.AssemblyReference.cache
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red_Pabelt_Checker.Form1.resources
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red_Pabelt_Checker.Properties.Resources.resources
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.csproj.GenerateResource.cache
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.exe
+C:\Users\Mikołaj\Desktop\Red Pablet Checker\Red Pabelt Checker\respozytorium kodu\Red Pabelt Checker\Red Pabelt Checker\obj\Debug\Red Pabelt Checker.pdb
